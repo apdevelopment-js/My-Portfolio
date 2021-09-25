@@ -65,7 +65,7 @@ new Vue({
             name: "Jordan Manchas",
             artist: "Skinny Flex",
             cover: "https://assets.audiomack.com/skinny-flex/e928f994e72bda8d0da3830fec0ca53d601d3b6bfd046d53dede6806f8befab1.jpeg?width=1000&height=1000&max=true",
-            source: "file:///C:/Users/sygrida/Desktop/My%20Portfolio/Skinny%20Flex%20ft.%20El%20Patron%20970%20-%20JORDAN%20MANCHÁS%20(Official%20Video)%20%23spanishdrill.mp3",
+            source: "https://github.com/apdevelopment-js/My-Portfolio/blob/main/Skinny%20Flex%20ft.%20El%20Patron%20970%20-%20JORDAN%20MANCHÁS%20(Official%20Video)%20%23spanishdrill.mp3",
             url: "https://www.youtube.com/watch?v=YuGibFTTXuQ",
             favorited: false
           },
@@ -73,7 +73,7 @@ new Vue({
             name: "We Don't Dance ",
             artist: "M24",
             cover: "https://i.scdn.co/image/ab67616d0000b273fced134fcf6189fb073396c2",
-            source: "file:///C:/Users/sygrida/Desktop/My%20Portfolio/M24%20x%20Stickz%20-%20We%20Don’t%20Dance%20[Music%20Video]%20-%20GRM%20Daily.mp3",
+            source: "https://github.com/apdevelopment-js/My-Portfolio/blob/main/M24%20x%20Stickz%20-%20We%20Don’t%20Dance%20%5BMusic%20Video%5D%20-%20GRM%20Daily.mp3",
             url: "https://www.youtube.com/watch?v=H-Dd5DBLxyk",
             favorited: false
           },
@@ -81,7 +81,7 @@ new Vue({
             name: "Location",
             artist: "Dave",
             cover: "https://images.genius.com/b8fd5c26c20c72be0dbbd3ace66f55d4.1000x1000x1.png",
-            source: "file:///C:/Users/sygrida/Desktop/My%20Portfolio/Dave%20-%20Location%20ft.%20Burna%20Boy%20(Lyrics).mp3",
+            source: "https://github.com/apdevelopment-js/My-Portfolio/blob/main/Dave%20-%20Location%20ft.%20Burna%20Boy%20(Lyrics).mp3",
             url: "https://www.youtube.com/watch?v=1qNWK2-iJlc",
             favorited: false
           },
@@ -89,7 +89,7 @@ new Vue({
             name: "Nice To Meet Ya",
             artist: "Wes Nelson",
             cover: "https://cdns-images.dzcdn.net/images/cover/7051b72950ebd4d9b8fe0e8ed5b68214/350x350.jpg",
-            source: "file:///C:/Users/sygrida/Desktop/My%20Portfolio/Wes%20Nelson%20-%20Nice%20To%20Meet%20Ya%20ft.%20Yxng%20Bane%20(Official%20Video).mp3",
+            source: "https://github.com/apdevelopment-js/My-Portfolio/blob/main/Wes%20Nelson%20-%20Nice%20To%20Meet%20Ya%20ft.%20Yxng%20Bane%20(Official%20Video).mp3",
             url: "https://www.youtube.com/watch?v=EpXzUMPfk7s",
             favorited: false
           },
@@ -97,7 +97,7 @@ new Vue({
             name: "Tunde",
             artist: "Noizy",
             cover: "https://images.genius.com/21f2f06cd0dcddd11790c1a4dc7985fa.1000x1000x1.jpg",
-            source: "file:///C:/Users/sygrida/Desktop/My%20Portfolio/NOIZY%20-%20TUNDE%20(Official%20Video%20HD).mp3",
+            source: "https://github.com/apdevelopment-js/My-Portfolio/blob/main/NOIZY%20-%20TUNDE%20(Official%20Video%20HD).mp3",
             url: "https://www.youtube.com/watch?v=FXH-QDAFHo8",
             favorited: false
           },
@@ -105,7 +105,7 @@ new Vue({
             name: "Element",
             artist: "Pop Smoke",
             cover: "https://cdns-images.dzcdn.net/images/cover/789cd725f925dc4dd973f0b6d0a5fa42/350x350.jpg",
-            source: "file:///C:/Users/sygrida/Desktop/My%20Portfolio/POP%20SMOKE%20-%20ELEMENT%20(Official%20Lyric%20Video).mp3",
+            source: "https://github.com/apdevelopment-js/My-Portfolio/blob/main/POP%20SMOKE%20-%20ELEMENT%20(Official%20Lyric%20Video).mp3",
             url: "https://www.youtube.com/watch?v=EZkNUmVXg6U",
             favorited: false
           },
@@ -113,7 +113,7 @@ new Vue({
             name: "Criminal Immigrant",
             artist: "Mc Kresha",
             cover: "https://cdns-images.dzcdn.net/images/cover/7c43feca27ebecb3d864f3fd95ba34b7/264x264.jpg",
-            source: "file:///C:/Users/sygrida/Desktop/My%20Portfolio/MC%20Kresha%20&%20Lyrical%20Son%20-%20Criminal%20Immigrant.mp3",
+            source: "https://github.com/apdevelopment-js/My-Portfolio/blob/main/MC%20Kresha%20%26%20Lyrical%20Son%20-%20Criminal%20Immigrant.mp3",
             url: "https://www.youtube.com/watch?v=DezLXyykmdc",
             favorited: false
           },
@@ -121,7 +121,7 @@ new Vue({
             name: "Nje Here Ne Jete",
             artist: "Dafina Zeqiri",
             cover: "https://cdns-images.dzcdn.net/images/cover/7ed5ae31aac028edb868e443eb3622e2/350x350.jpg",
-            source: "file:///C:/Users/sygrida/Desktop/My%20Portfolio/Cricket%20ft%20Dafina%20Zeqiri%20-%20Nje%20here%20ne%20jete%20(Official%20Music%20Video).mp3",
+            source: "https://github.com/apdevelopment-js/My-Portfolio/blob/main/Cricket%20ft%20Dafina%20Zeqiri%20-%20Nje%20here%20ne%20jete%20(Official%20Music%20Video).mp3",
             url: "https://www.youtube.com/watch?v=acHFqpdqw8E",
             favorited: false
           },
