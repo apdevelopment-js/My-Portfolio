@@ -65,7 +65,7 @@ new Vue({
             name: "Jordan Manchas",
             artist: "Skinny Flex",
             cover: "https://assets.audiomack.com/skinny-flex/e928f994e72bda8d0da3830fec0ca53d601d3b6bfd046d53dede6806f8befab1.jpeg?width=1000&height=1000&max=true",
-            source: "https://github.com/apdevelopment-js/My-Portfolio/blob/main/Skinny%20Flex%20ft.%20El%20Patron%20970%20-%20JORDAN%20MANCHÁS%20(Official%20Video)%20%23spanishdrill.mp3",
+            source: "Skinny Flex ft. El Patron 970 - JORDAN MANCHÁS (Official Video) #spanishdrill.mp3",
             url: "https://www.youtube.com/watch?v=YuGibFTTXuQ",
             favorited: false
           },
